@@ -11,9 +11,9 @@ assignees: ''
 **I need:**
 **So that:**
 
-##Details and assumptions:
+## Details and assumptions:
 
-##Acceptance criteria:
+## Acceptance criteria:
 ```gherkin
 Given:
 When:
